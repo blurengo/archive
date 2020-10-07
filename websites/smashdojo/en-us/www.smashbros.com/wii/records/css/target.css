@@ -1,0 +1,161 @@
+BODY {
+	background: #e0e0e0 url(../img_cmn/bg.gif) center;
+}
+
+#head {
+	width: 705px;
+	height: 130px;
+	background: url(../img_cmn/title_bg.png) center;
+	margin: 0 auto 0;
+}
+
+#footer {
+	width: 705px;
+	background: #000000;
+	margin: 20px auto 0;
+	padding: 15px 0 25px;
+	text-align: center;
+}
+
+.block_l {
+	float: left;
+}
+
+.block_r {
+	float: right;
+}
+
+#head .block_l {
+	width: 340px;
+	position: relative;
+	top: 40px; left: 70px;
+}
+
+#head .block_r {
+	width: 228px;
+	position: relative;
+	top: 24px; left: -33px;
+}
+
+.ranking_title {
+	width: 566px;
+	margin: 20px auto 20px;
+}
+
+#menuTop {
+	width: 570px;
+	height: 27px;
+	background: url(../img_cmn/menu_bg.gif) center;
+	margin: 30px auto 30px;
+}
+
+#menuBottom {
+	width: 570px;
+	height: 27px;
+	background: url(../img_cmn/menu_bg2.png) center;
+	margin: 40px auto 40px;
+}
+
+.rankingMenuHidden {
+	display: none;
+}
+
+.menu, .menu_b { 
+	display: block;
+	float: left;
+	width: 74px;
+	height: 27px;
+	font-size: 11px;
+	text-align: center;
+	margin-right: 5px;
+	position: relative;
+	left: 50px;
+}
+
+.menu {
+	background: url(../img_cmn/menu_bg_normal.gif) center;
+}
+
+.menu_b {
+	background: url(../img_cmn/menu_bg_normal2.png) center;
+}
+
+
+#menuTop A {
+	position: relative;
+	top: 6px;
+}
+
+#menuBottom A {
+	position: relative;
+	top: 5px;
+}
+
+.menuOn {
+	background: url(../img_cmn/menu_bg_current.png) center;
+}
+
+.menu_bOn {
+	background: url(../img_cmn/menu_bg_current2.png) center;
+}
+
+.menuOn A, .menu_bOn A {
+	color: #333333;
+	text-decoration: none
+}
+
+.ranking {
+	width: 570px;
+	margin: 0 auto 20px;
+}
+
+.rankingHidden {
+	display: none;
+}
+
+
+#ranking_label,
+#ranking_list {
+	width: 570px;
+}
+
+#ranking_list {
+	background: url(../img_cmn/list_bg.gif);
+}
+
+#ranking_list TR {
+	height: 23px;
+}
+
+.rank { 
+	width: 70px;
+	text-align :right;
+	padding-right: 10px;
+}
+.rank IMG {
+	margin: 2px 0px 2px;
+}
+.character { 
+	width: 320px;
+	font-weight: bold;
+}
+.record { 
+	width: 180px; 
+	font-weight: bold;
+}
+
+IMG.lv_shead {
+	margin: 30px 0 7px 2px;
+}
+
+#note {
+	width: 460px;
+	margin: 30px auto 20px;
+}
+
+#btmLink {
+	width: 203px;
+	margin: 0 auto 0;
+	position: relative;
+	left: -10px;
+}

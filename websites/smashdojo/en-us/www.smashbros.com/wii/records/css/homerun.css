@@ -1,0 +1,97 @@
+BODY {
+	background: #e0e0e0 url(../img_cmn/bg.gif) center;
+}
+
+#head {
+	width: 705px;
+	height: 130px;
+	background: url(../img_cmn/title_bg.png) center;
+	margin: 0 auto 0;
+}
+
+#footer {
+	width: 705px;
+	background: #000000;
+	margin: 20px auto 0;
+	padding: 15px 0 25px;
+	text-align: center;
+}
+
+.block_l {
+	float: left;
+}
+
+.block_r {
+	float: right;
+}
+
+#head .block_l {
+	width: 340px;
+	position: relative;
+	top: 40px; left: 70px;
+}
+
+#head .block_r {
+	width: 228px;
+	position: relative;
+	top: 24px; left: -33px;
+}
+
+.ranking_title {
+	width: 566px;
+	margin: 20px auto 20px;
+}
+
+.ranking {
+	width: 570px;
+	margin: 20px auto 20px;
+}
+
+.rankingHidden {
+	display: none;
+}
+
+
+#ranking_label,
+#ranking_list {
+	width: 570px;
+}
+
+#ranking_list {
+	background: url(../img_cmn/list_bg.gif);
+}
+
+#ranking_list TR {
+	height: 23px;
+}
+
+.rank { 
+	width: 70px;
+	text-align :right;
+	padding-right: 10px;
+}
+.rank IMG {
+	margin: 2px 0px 2px;
+}
+.character { 
+	width: 320px;
+	font-weight: bold;
+}
+.record { 
+	width: 180px; 
+	font-weight: bold;
+}
+
+#note {
+	width: 450px;
+	margin: 20px auto 20px;
+	text-indent: -11px;
+	padding-left: 11px;
+}
+
+#btmLink {
+	width: 203px;
+	margin: 0 auto 0;
+	position: relative;
+	left: -10px;
+}
