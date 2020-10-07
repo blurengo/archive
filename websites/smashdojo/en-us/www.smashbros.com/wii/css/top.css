@@ -1,0 +1,28 @@
+body {
+	background-image: url(../images/top/02/body_bg.png);
+	background-repeat: repeat-x;
+	}
+
+#title {
+	background-image: url(../images/top/02/title.jpg);
+	background-repeat: no-repeat;
+	background-position: top center;
+	}
+
+#mainMenu_image {
+	background-image: url(../images/top/02/main_img.jpg);
+	background-repeat: no-repeat;
+	background-position: top center;
+	background-color: #ffffff;
+	}
+
+#menu {
+	width: 670px;
+	margin: 0 auto 0;
+	}
+
+#lwrBlock {
+	background-image: url(../images/top/02/body_bg_lwr.png);
+	background-repeat: repeat-x;
+	}
+
