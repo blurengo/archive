@@ -1,0 +1,228 @@
+Team Fortress Arcade
+By Eric Ruth Games
+
+Version 1 - The big 9/29 release!
+Version 2 - The 9/29 bug fix re-release!  Fixed Demoman damage, camera scrolling issues,
+            boss problems, players stuck in walls, freezebot issues.
+Version 3 - Fixed a HUGE bug with wall collision, and the Heavy boss not dieing.
+Version 4 - A few minor things cleaned up.
+Version 5 - 9/30 More updates, including Sniper stuck in wall bugs, and freezebot problems.
+
+
+
+
+Summary:
+
+Team Fortress Arcade is a lovingly created video game mash-up between
+Valve's Team Fortress 2 franchise, and the almost forgotten side
+scrolling beat-em-up genre.  In this game, up to four players can take
+the roll of the famous BLU Team Fortress classes as they battle through
+armies of maniacal robot forces and come face to face with their RED
+boss counterparts.  After traversing 9 original stages, the players
+must conquer a final boss fight featuring legends of another Valve
+franchise!
+
+
+
+
+
+Controls:
+
+Player 1
+
+  Up     W
+  Down   S
+  Left   A
+  Right  D
+  Shoot  H
+  Jump   U
+
+Player 2
+
+  Up     Up
+  Down   Down
+  Left   Left
+  Right  Right
+  Shoot  Z
+  Jump   X
+
+Player 3
+
+  Up     I
+  Down   K
+  Left   J
+  Right  L
+  Shoot  O
+  Jump   P
+
+Player 4
+
+  Up     numpad8
+  Down   numpad2
+  Left   numpad4
+  Right  numpad6
+  Shoot  numpad1
+  Jump   numpad3
+
+
+
+Press both buttons together at once for a melee attack!
+
+Enter to Start/Pause
+
+F4 toggles between Full Screen and Windowed.
+
+*NOTE* If you are playing this on a lap top that does NOT
+have a numpad, the 4th player will not work.  You CAN,
+however, plug in a USB keyboard or a USB numpad to remedy
+the problem.
+
+
+
+
+
+
+Unique Character Abilities:
+
+Scout: Can double jump by pressing "jump" again when in the air.
+
+Soldier: Can rocket jump if you press "attack" right after pressing "jump."
+
+Pyro: Flamethrower and flare gun do afterburn damage to enemies.
+
+Demoman: Fires sticky bombs at the ground when you press "attack" in the air.
+Jump again to ignite them.  You can sticky jump by being on top of the sticky
+bombs when you jump.
+
+Engineer: Hit your sentry once to make it a level 2 sentry.
+Hit it again to make it level 3.
+
+Medic: you can control the height of your jump by holding down the "jump" button
+longer.
+
+Sniper: Hold your "attack" button to charge your sniper rifle.  A fully charged
+shot blows through multiple enemies.
+
+Spy: Hold the "attack" button to cloak and become invisible to on-screen enemies.
+
+
+
+
+
+
+
+Frequently Asked Questions:
+
+Q: Is this a standalone PC game or rom of some kind?
+
+A: This title is a standalone PC game.  It comes as an .exe
+file with no installation neccessary.  Jus double click and
+play.
+
+
+Q: Why is this only 4 player and not 9 player?
+
+A: In the 1990's, Arcade beat-em-up games typically had only
+4 player co-op.  Teenage Mutant Ninja Turtles, Captain
+Commando, Captain America, The Simpsons, and most X-Men arcade
+cabinets only utilized 4 player.  It was a standard of the time
+and as such, was recreated here.
+
+
+Q: Is there no online play?
+
+A: Not yet, no.  I WILL be looking into it for an update since it
+is a request I get frequently.  I promise you that its on my "to-
+do list."
+
+
+Q: No HATS!?
+
+A: There are a couple nods to the hats of the series, but no,
+there will be no customizable character sprites...including hats.
+
+
+Q: Will there be no player versus mode?
+
+A: I will guage how the game is recieved post-release and think
+about it for an update, but most likely,it probably will not happen.
+
+
+Q: Are Valve gonna sue you?
+
+A: God, I hope not.  But I've been informed that they know about
+this project and have yet to contact me in any way...positively
+or negatively.  So, no cease and desist yet.
+
+
+Q: What happens if I find a bug/problem?
+
+A: I will happily take bug reports!  Send me an e-mail to:
+ericdavidruth@gmail.com with information about where the bug
+happened, on what stage and with what characters/objects.  I've put
+a lot of time in to trying to make the game as "perfect" as possible,
+but I'm just human and frankly, I'm not that great a programmer.  I
+will address the issue and release updates as needed.
+
+
+Q: Can I contact you if I have questions about the game?
+
+A: yes, you can, but PLEASE read this "read me" first to make sure
+your questions are not answered somewhere within its text.  If you
+can't find the answer, then yes, go ahead and contact me.
+
+
+
+
+
+
+Soundtrack:
+
+I use Reason 4 to compose all of my arcadey music.  The Title theme,
+Victory song, Select music, and Game Over theme were all composed to
+sound similar to their original counterparts.  The stage songs
+are original compositions writen and tracked by Eric Ruth (as DJ Potatoe)
+
+
+
+
+
+
+System Requirements:
+
+Windows ME/2000 or higher
+Direct X 7 or higher
+
+
+"Team Fortress Arcade" was created by Eric Ruth
+in 3 months using Yo Yo Games' Game Maker 8 Pro.
+
+www.ericruthgames.com
+
+ericdavidruth@gmail.com
+
+
+
+
+
+
+
+Special Thanks:
+Valve
+Piki Geek
+Jordan Millner
+Matt Moriarty
+John Moriarty
+Mike Dixon
+Chris Baldwin
+Chris Ratliff
+Innovate Baltimore
+MAGfest
+Ben Walsh
+Tina Tyndal
+David Croach
+David Riley
+Michael Mullen
+Joystiq.com
+Kotaku.com
+& all of the blogs who mentioned/promoted my work!
